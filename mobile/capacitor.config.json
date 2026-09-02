@@ -1,0 +1,18 @@
+{
+  "appId": "app.shitmusic.android",
+  "appName": "Shit Music",
+  "webDir": "www",
+  "backgroundColor": "#000000",
+  "server": {
+    "url": "https://music-jade-theta-53.vercel.app",
+    "androidScheme": "https",
+    "errorPath": "error.html",
+    "allowNavigation": ["music-jade-theta-53.vercel.app", "*.vercel.app"]
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false,
+    "backgroundColor": "#000000"
+  }
+}
