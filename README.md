@@ -1,4 +1,4 @@
-# Rich Music
+# Shit Music
 
 **Pemutar musik web gratis** bergaya Spotify, katalog [YouTube Music](https://music.youtube.com). Tanpa akun.
 
@@ -12,7 +12,7 @@ Project ini **gratis** dan **bebas dipakai**. Fork, ubah, deploy sendiri, atau b
 
 ## Tentang
 
-Rich Music adalah pemutar musik di browser. Cari lagu, buka album dan artis, buat playlist, lihat lirik, atur antrian — semuanya tanpa daftar akun.
+Shit Music adalah pemutar musik di browser. Cari lagu, buka album dan artis, buat playlist, lihat lirik, atur antrian — semuanya tanpa daftar akun.
 
 Library (favorit, playlist, riwayat, statistik) tersimpan di perangkatmu. Audio diputar lewat pemutar resmi YouTube.
 
@@ -40,7 +40,7 @@ Silakan join.
 
 ### Desktop / PC
 
-Di laptop atau komputer, Rich Music langsung siap. Buka situsnya, pilih lagu, dan putar — tidak perlu pengaturan tambahan.
+Di laptop atau komputer, Shit Music langsung siap. Buka situsnya, pilih lagu, dan putar — tidak perlu pengaturan tambahan.
 
 ### Putar di latar belakang (Android)
 
@@ -170,4 +170,4 @@ Jalankan, bagikan, ubah, dan deploy ulang sesukamu. Tidak ada biaya.
 
 ---
 
-**[Buka Rich Music](https://richmusic.vercel.app)** · **[Join Telegram](https://t.me/ChRichStore)** · **[GitHub](https://github.com/ramax100/YT-Music-Mod)**
+**[Buka Shit Music](https://richmusic.vercel.app)** · **[Join Telegram](https://t.me/ChRichStore)** · **[GitHub](https://github.com/ramax100/YT-Music-Mod)**
